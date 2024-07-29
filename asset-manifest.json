@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my--react-commit/static/css/main.b8c70cce.css",
+    "main.js": "/my--react-commit/static/js/main.242236e5.js",
+    "index.html": "/my--react-commit/index.html",
+    "main.b8c70cce.css.map": "/my--react-commit/static/css/main.b8c70cce.css.map",
+    "main.242236e5.js.map": "/my--react-commit/static/js/main.242236e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c70cce.css",
+    "static/js/main.242236e5.js"
+  ]
+}
